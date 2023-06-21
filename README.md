@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Kei-K23
+- 👋 Hi, I’m @Kei-K
 - 👀 I’m interested in writing code mainly using Javascript 
 - 🌱 I’m currently learning web frontend
