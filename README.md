@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/kei_katherin" target="blank"><img src="https://img.shields.io/twitter/follow/kei_katherin?logo=twitter&style=for-the-badge" alt="kei_katherin" /></a> </p>
 
-- 🔭 I’m currently working on [chatForge](https://github.com/Kei-K23/chatForge)
-
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-teal-seven.vercel.app](https://my-portfolio-teal-seven.vercel.app)
