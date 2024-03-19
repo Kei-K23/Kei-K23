@@ -8,7 +8,12 @@
 
 ###
 
-<h3 align="left">A passionate full-stack developer 🧑‍💻 that interest in writing web applications 🕸️ and tools ⚒️ to gain better DX. I always learn some new things and topics. In my free time, I write dummy libraries 📚 and clone other applications like Twitch, Trello, Discord (You can find those close in my repo 🗂️).</h3>
+<h3 align="left">A passionate full-stack developer 🧑‍💻 that interest in writing web
+        applications 🕸️ and tools ⚒️ to gain better DX. I always learn some new
+        things and topics. In my free time, I write dummy libraries 📚 and clone
+        other applications like Twitch, Trello, Discord (You can find those
+        clones in my repo 🗂️). I want to write libraries that can be good and
+        boot DX 🚀.</h3>
 
 ###
 
