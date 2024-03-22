@@ -2,10 +2,6 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <p align="left">A passionate full-stack developer 🧑‍💻 that interest in writing web
         applications 🕸️ and tools ⚒️ to gain better DX. I always learn some new
         things and topics. In my free time, I write dummy libraries 📚 and clone
