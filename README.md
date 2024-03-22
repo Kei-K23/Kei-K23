@@ -4,16 +4,14 @@
 
 <br clear="both">
 
-<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHAzdzZqMmtwNnZhNThyejBiZmt0ZjA4dnJrdW9lY2RybnI1bmJ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif"  />
-
 ###
 
-<h3 align="left">A passionate full-stack developer 🧑‍💻 that interest in writing web
+<p align="left">A passionate full-stack developer 🧑‍💻 that interest in writing web
         applications 🕸️ and tools ⚒️ to gain better DX. I always learn some new
         things and topics. In my free time, I write dummy libraries 📚 and clone
         other applications like Twitch, Trello, Discord (You can find those
         clones in my repo 🗂️). I want to write libraries that can be good and
-        boot DX 🚀.</h3>
+        boot DX 🚀.</p>
 
 ###
 
