@@ -7,3 +7,6 @@
 - My first programming language is JavaScript.
 - I have beautiful girlfriend, K 💙.
 
+![JavaScript](/javascript-on-fire.gif)
+
+
