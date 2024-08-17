@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hello there 👋, I'm Arkar Min (Kei)
+  Hello there 👋, I'm Arkar Min (Kei-K)
 </h1>
 
-- A passionate developer 🧑‍💻 and technophile interested in writing clean code and build software 🕸️ and tools ⚒️ to solve problems.
-- I'm always eager to learn new things and explore different topics 🗺️.
-- Now, I am learning React Native mobile development, architectures 📚 and Design patterns.
+- A passionate developer 🧑‍💻 and technophile interested in building CLI tools, writing clean code and build full-stack web applications🕸️.
+- I'm fascinating about low level system programming, compilers and build things from scratch.
+- Now, I am learning React Native and Go.
 - Languages and Frameworks agnostic.
 - My first programming language is JavaScript.
 - I have beautiful girlfriend, K 💙.
