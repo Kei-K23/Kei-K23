@@ -2,11 +2,11 @@
   Hello there 👋, I'm Arkar Min (Kei-K)
 </h1>
 
-- A passionate developer 🧑‍💻 and technophile interested in building CLI tools, writing clean code and build full-stack web applications🕸️.
-- I'm fascinating about low level system programming, compilers and build things from scratch.
-- Now, I am learning C++ and low-level concepts.
+- A passionate software developer 🧑‍💻 and technophile interested in building CLI, crafting tools and building full-stack web applications🕸️.
+- I'm fascinating about low level system programming, compilers and building things from scratch.
+- Now, I am learning C, C++ and low-level concepts like memory management.
 - Languages and Frameworks agnostic.
-- My first programming language is JavaScript.
+- My first programming language is JavaScript and work as a full stack developer mainly with React, NextJS and other JavaScript ecosystem toolings.
 - I have beautiful girlfriend, K 💙.
 
 ## 📊 GitHub Stats:
