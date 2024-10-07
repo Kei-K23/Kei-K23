@@ -7,7 +7,7 @@
 - Now, I am learning compilers and low-level concepts like memory management.
 - Languages and Frameworks agnostic. I'm working with various languages, frameworks and tools.
 - My go-tos language is **JavaScript**🔥 to build staff.
-- I work as a full stack developer and in my day to day job I build full-stack web applications both front-end and back-end. I work with React, NextJS, Node, JavaScript, AWS services and microservices architecture. Apart from full-time job, I'm actively doing side projects and open-source works in here ([GitHub](https://github.com/Kei-K23)).
+- I work as a full stack developer and primarily use React, NextJS, Node, NestJS, JavaScript, PHP, Laravel, AWS services and microservices architecture. Apart from full-time job, I'm actively building side projects and open-source projects in here ([GitHub](https://github.com/Kei-K23)).
 - I have beautiful girlfriend, K 💙.
 
 ## 📊 GitHub Stats:
