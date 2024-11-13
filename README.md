@@ -2,12 +2,12 @@
   Hello there 👋, I'm Arkar Min (Kei-K)
 </h1>
 
-- A passionate software developer 🧑‍💻 interested in building CLI, crafting tools 🛠️ and building full-stack web applications 🕸️.
-- I'm fascinating about low level system programming, microservices, compilers, interpreters and building things from scratch 🚀.
-- Currently, I am learning **Rust** 🌱.
-- Languages and Frameworks agnostic. I'm working with various languages, frameworks and tools.
-- My go-tos language is **JavaScript**🔥 to build staff.
-- I work as a full stack developer and primarily use React, NextJS, Node, NestJS, JavaScript, NodeJS, PHP, Laravel, AWS and microservices architecture. Apart from full-time job, I'm actively building side projects and open-source projects in here ([GitHub](https://github.com/Kei-K23)).
+- A passionate software developer 🧑‍💻 interested and passionate about building full-stack applications, reusable UI components and building backend services 🛠️.
+- I'm also fascinating about system design architectures 🚀.
+- Currently, I am learning **Go** 🌱.
+- Languages and Frameworks agnostic. I'm working with various languages, frameworks, services and tools.
+- My go-tos language is **JavaScript**🔥 to build full-stack applications.
+- I work as a full-stack developer and primarily use React, NextJS, NodeJS, JavaScript, TypeScript, PHP, Laravel and other tools. Apart from full-time job, I'm actively building side projects and open-source projects in here ([GitHub](https://github.com/Kei-K23)).
 - I have beautiful girlfriend, K 💙.
 
 ## 📊 GitHub Stats:
