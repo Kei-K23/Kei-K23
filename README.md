@@ -2,7 +2,7 @@
   Hello there 👋, I'm Arkar Min (Kei-K)
 </h1>
 
-- A passionate software developer 🧑‍💻 interested and passionate about building full-stack applications, reusable UI components and building backend services 🛠️.
+- A passionate software developer 🧑‍💻 interested and passionate about building full-stack applications, reusable UI components, building backend services 🛠️ and CLI tools.
 - I'm also fascinating about system design architectures 🚀.
 - Currently, I am learning **Go** 🌱.
 - Languages and Frameworks agnostic. I'm working with various languages, frameworks, services and tools.
