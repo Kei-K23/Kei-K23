@@ -2,9 +2,8 @@
   Hello there 👋, I'm Arkar Min (Kei-K)
 </h1>
 
-- A passionate software developer 🧑‍💻 interested and passionate about building full-stack applications, reusable UI components, building backend services 🛠️ and CLI tools.
-- I'm also fascinating about system design architectures 🚀.
-- Languages and Frameworks agnostic. I'm working with various languages, frameworks, services and tools.
+- A passionate software developer 🧑‍💻 interested and passionate about building full-stack applications, UI components especially with React and NextJS.
+- I'm also fascinating about system design architectures 🚀 and backend services.
 - My go-tos language is **JavaScript**🔥 to build full-stack applications.
 - I work as a full-stack developer and primarily use React, NextJS, NodeJS, JavaScript, TypeScript, PHP, Laravel and other tools. Apart from full-time job, I'm actively building side projects and open-source projects in here ([GitHub](https://github.com/Kei-K23)).
 - I have beautiful girlfriend, K 💙.
