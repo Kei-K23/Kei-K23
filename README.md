@@ -2,7 +2,7 @@
   Hello there 👋, I'm Arkar Min (Kei)
 </h1>
 
-- A passionate software developer 🧑‍💻 interested and passionate about building full-stack applications, web animations and reusable UI components especially with React and NextJS.
+- A passionate software developer 🧑‍💻 interested and passionate about building full-stack applications, designing UI, web animations and building UI components system especially with React and NextJS.
 - My go-tos language is **JavaScript**🔥 to build full-stack applications.
 - I work as a full-stack developer and primarily focus on Frontend using React, NextJS, NodeJS, JavaScript, TypeScript, and other tools.
 - Currently, I'm learning **UI/UX**, **Design Systems** and exploring the land of **Creative Web Development** 🪄.
