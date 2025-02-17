@@ -5,7 +5,7 @@
 - A passionate software developer 🧑‍💻 interested and passionate about building full-stack applications, web animations and reusable UI components especially with React and NextJS.
 - My go-tos language is **JavaScript**🔥 to build full-stack applications.
 - I work as a full-stack developer and primarily focus on Frontend using React, NextJS, NodeJS, JavaScript, TypeScript, and other tools.
-- Currently, I'm learning **Design Systems** and exploring the land of **Creative Web Development** 🪄.
+- Currently, I'm learning **UI/UX**, **Design Systems** and exploring the land of **Creative Web Development** 🪄.
 - Crafting, shipping and solo developer at [**Pixora Studios**](https://github.com/Pixora-Studios) 🚀.
 
 ## 📊 GitHub Stats:
