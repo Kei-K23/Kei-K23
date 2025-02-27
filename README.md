@@ -3,7 +3,7 @@
 </h1>
 
 - A creative software developer 🧑‍💻 interested and passionate about building full-stack applications, Design System, and building robust, scalable and high-performance systems.
-- My go-tos language is **JavaScript**🔥 to build full-stack applications. Along with JavaScript ecosystem, I also work with Php/Laravel and .Net projects.
+- My go-tos language is **JavaScript**🔥 to build full-stack applications. Along with JavaScript and Node.js ecosystem, I also work with **Php/Laravel** and **Golang**.
 - I work as a full-stack developer and use React, NextJS, NodeJS, JavaScript, TypeScript, and other tools.
 - Currently, I'm learning **System Design** and **Cloud Computing**.
 
