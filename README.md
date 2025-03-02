@@ -2,9 +2,7 @@
   Hello there 👋, I'm Arkar Min (Kei)
 </h1>
 
-- A creative software developer 🧑‍💻 interested and passionate about building full-stack applications, Design System, and building robust, scalable and high-performance systems.
-- My go-tos language is **JavaScript**🔥 to build full-stack applications. Along with JavaScript ecosystem, I also work with Php/Laravel and .Net projects.
-- I work as a full-stack developer and use React, NextJS, NodeJS, JavaScript, TypeScript, and other tools.
+- A passionate full-stack developer interested about System Architecture, System Design, Distributed System and Databases.
 - Currently, I'm learning **System Design** and **Cloud Computing**.
 
 ## 📊 GitHub Stats:
