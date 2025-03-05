@@ -6,44 +6,47 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
 
 ### **Programming Languages**
 <p>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> 
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> 
-  <img alt="Python" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"> 
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"> 
+  <img alt="TypeScript" title="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts"> 
+  <img alt="Golang" title="Golang" width="40px" src="https://skillicons.dev/icons?i=go"> 
 </p>
 
 ### **Backend Frameworks & Libraries**
 <p>
-  <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"> 
-  <img title="Express.js" alt="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"> 
-  <img title="NestJS" alt="NestJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png"> 
-  <img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png"> 
-  <img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> 
+  <img title="Node.js" alt="Node.js" width="40px" src="https://skillicons.dev/icons?i=nodejs"> 
+  <img title="Bun" alt="Bun" width="40px" src="https://skillicons.dev/icons?i=bun"> 
+  <img title="Express.js" alt="Express.js" width="40px" src="https://skillicons.dev/icons?i=expressjs"> 
+  <img title="NestJS" alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs">
+  <img title="GraphQL" alt="GraphQL" width="40px" src="https://skillicons.dev/icons?i=graphql"> 
 </p>
 
 ### **Frontend Frameworks & Libraries**
 <p>
-  <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> 
+  <img title="React" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"> 
+  <img title="Next" alt="React" width="40px" src="https://skillicons.dev/icons?i=next"> 
+  <img title="Vue" alt="React" width="40px" src="https://skillicons.dev/icons?i=vue"> 
 </p>
 
 ### **Databases**
 <p>
-  <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> 
-  <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> 
-  <img title="Prisma" alt="Prisma" width="40px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4"> 
-  <img title="Mongoose" alt="Mongoose" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png"> 
+  <img title="MongoDB" alt="MongoDB" width="40px" src="https://skillicons.dev/icons?i=mongodb"> 
+  <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres"> 
+  <img title="Mysql" alt="Mysql" width="40px" src="https://skillicons.dev/icons?i=mysql"> 
 </p>
 
 ### **DevOps & Infrastructure**
 <p>
-  <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> 
-  <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"> 
+  <img title="Docker" alt="Docker" width="40px" src="https://skillicons.dev/icons?i=docker"> 
+  <img title="AWS" alt="AWS" width="40px" src="https://skillicons.dev/icons?i=aws"> 
+  <img title="Firebase" alt="AWS" width="40px" src="https://skillicons.dev/icons?i=firebase"> 
 </p>
 
 ### **Tools & IDEs**
 <p>
-  <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> 
-  <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> 
-  <img title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png"> 
+  <img title="VS Code" alt="VS Code" width="40px" src="https://skillicons.dev/icons?i=vscode"> 
+  <img title="Git" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git"> 
+  <img title="Postman" alt="Postman" width="40px" src="https://skillicons.dev/icons?i=postman"> 
+  <img title="Markdown" alt="Postman" width="40px" src="https://skillicons.dev/icons?i=markdown"> 
 </p>
 
 ## 📊 GitHub Stats
