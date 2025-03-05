@@ -32,12 +32,13 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
   <img title="MongoDB" alt="MongoDB" width="40px" src="https://skillicons.dev/icons?i=mongodb"> 
   <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres"> 
   <img title="Mysql" alt="Mysql" width="40px" src="https://skillicons.dev/icons?i=mysql"> 
+  <img title="Redis" alt="Redis" width="40px" src="https://skillicons.dev/icons?i=redis"> 
 </p>
 
 ### **DevOps & Infrastructure**
 <p>
   <img title="Docker" alt="Docker" width="40px" src="https://skillicons.dev/icons?i=docker"> 
-  <img title="AWS" alt="AWS" width="40px" src="https://skillicons.dev/icons?i=aws"> 
+  <img title="AWS" alt="AWS" width="40px" src="https://skillicons.dev/icons?i=aws">
   <img title="Firebase" alt="AWS" width="40px" src="https://skillicons.dev/icons?i=firebase"> 
 </p>
 
@@ -47,11 +48,6 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
   <img title="Git" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git"> 
   <img title="Postman" alt="Postman" width="40px" src="https://skillicons.dev/icons?i=postman"> 
   <img title="Markdown" alt="Postman" width="40px" src="https://skillicons.dev/icons?i=markdown"> 
-</p>
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kei-K23&show_icons=true&theme=radical&include_all_commits=true">
 </p>
 
 ## 🤝 Let's Connect
