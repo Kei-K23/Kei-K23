@@ -3,7 +3,7 @@
 </h1>
 
 - A passionate software developer interested about System Architecture, System Design, Distributed System and Databases.
-- My go-tos language is **JavaScript & NodeJS**🔥 to build systems and services. Along with JavaScript & NodeJS ecosystem, I also work with Php/Laravel and .Net projects.
+- My go-tos language is **JavaScript & NodeJS**🔥 to build systems and services.
 - Currently, I'm learning **System Design** and **Cloud Computing**.
 
 ## 📊 GitHub Stats:
