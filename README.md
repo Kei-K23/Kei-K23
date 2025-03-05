@@ -16,7 +16,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
   <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"> 
   <img title="Express.js" alt="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"> 
   <img title="NestJS" alt="NestJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png"> 
-  <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> 
+  <img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png"> 
   <img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> 
 </p>
 
@@ -30,6 +30,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
   <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> 
   <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> 
   <img title="Prisma" alt="Prisma" width="40px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4"> 
+  <img title="Mongoose" alt="Mongoose" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png"> 
 </p>
 
 ### **DevOps & Infrastructure**
@@ -42,6 +43,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
 <p>
   <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> 
   <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> 
+  <img title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png"> 
 </p>
 
 ## 📊 GitHub Stats
