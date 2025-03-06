@@ -8,6 +8,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
 <p>
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"> 
   <img alt="TypeScript" title="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts">
+  <img alt="Go" title="Go" width="40px" src="https://skillicons.dev/icons?i=go"> 
   <img alt="Java" title="Java" width="40px" src="https://skillicons.dev/icons?i=java"> 
 </p>
 
