@@ -56,4 +56,5 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
 ## 🤝 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/arkar-min-97410b308/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+  <a href="https://x.com/amin_dev_7"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-64.png" width="40"></a>
 </p>
