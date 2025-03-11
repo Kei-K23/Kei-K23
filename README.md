@@ -8,7 +8,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
 <p>
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"> 
   <img alt="TypeScript" title="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts">
-  <img alt="Python" title="Python" width="40px" src="https://skillicons.dev/icons?i=python"> 
+  <img alt="Go" title="Go" width="40px" src="https://skillicons.dev/icons?i=go"> 
   <img alt="Java" title="Java" width="40px" src="https://skillicons.dev/icons?i=java"> 
 </p>
 
@@ -19,7 +19,6 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
   <img title="Express.js" alt="Express.js" width="40px" src="https://skillicons.dev/icons?i=expressjs"> 
   <img title="NestJS" alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs">
   <img title="Spring" alt="Spring" width="40px" src="https://skillicons.dev/icons?i=spring">
-  <img title="FastAPI" alt="FastAPI" width="40px" src="https://skillicons.dev/icons?i=fastapi">
   <img title="GraphQL" alt="GraphQL" width="40px" src="https://skillicons.dev/icons?i=graphql"> 
 </p>
 
