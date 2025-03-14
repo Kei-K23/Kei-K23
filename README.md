@@ -26,7 +26,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
 <p>
   <img title="React" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"> 
   <img title="Next" alt="React" width="40px" src="https://skillicons.dev/icons?i=next"> 
-  <img title="Angular" alt="React" width="40px" src="https://skillicons.dev/icons?i=angular"> 
+  <img title="Vue" alt="React" width="40px" src="https://skillicons.dev/icons?i=vue"> 
 </p>
 
 ### **Databases**
