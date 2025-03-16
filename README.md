@@ -1,6 +1,6 @@
 # Hi There, I'm Arkar Min (Kei) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a passionate **Software Developer** who primarily focuses on **Backend Development**. I am deeply interested in **System Architecture**, **System Design**, **Distributed Systems**, **Databases** and building **full-stack products**. Currently, I'm learning **Cloud Computing** and **Golang**.
+I'm a passionate **Software Developer** who primarily focuses on **Backend Development**. I am deeply interested in **System Architecture**, **System Design**, **Distributed Systems**, **Databases** and building **full-stack applications**. Currently, I'm learning **Cloud Computing** and **System Design**.
 
 ## 🚀 Tech Stack
 
@@ -8,7 +8,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
 <p>
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"> 
   <img alt="TypeScript" title="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts">
-  <img alt="Go" title="Go" width="40px" src="https://skillicons.dev/icons?i=go"> 
+  <img alt="Java" title="Go" width="40px" src="https://skillicons.dev/icons?i=java"> 
 </p>
 
 ### **Backend Frameworks & Libraries**
@@ -17,6 +17,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
   <img title="Bun" alt="Bun" width="40px" src="https://skillicons.dev/icons?i=bun"> 
   <img title="Express.js" alt="Express.js" width="40px" src="https://skillicons.dev/icons?i=expressjs"> 
   <img title="NestJS" alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs">
+  <img title="Spring" alt="Spring" width="40px" src="https://skillicons.dev/icons?i=spring">
   <img title="GraphQL" alt="GraphQL" width="40px" src="https://skillicons.dev/icons?i=graphql"> 
 </p>
 
