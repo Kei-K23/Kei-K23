@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"> 
   <img alt="TypeScript" title="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts">
   <img alt="Python" title="Python" width="40px" src="https://skillicons.dev/icons?i=python">
-  <img alt="Java" title="Go" width="40px" src="https://skillicons.dev/icons?i=java"> 
+  <img alt="CSharp" title="CSharp" width="40px" src="https://skillicons.dev/icons?i=cs"> 
 </p>
 
 ### **Backend Frameworks & Libraries**
@@ -19,8 +19,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
   <img title="Express.js" alt="Express.js" width="40px" src="https://skillicons.dev/icons?i=expressjs"> 
   <img title="NestJS" alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs">
   <img title="FastAPI" alt="FastAPI" width="40px" src="https://skillicons.dev/icons?i=fastapi">
-  <img title="Django" alt="Django" width="40px" src="https://skillicons.dev/icons?i=django">
-  <img title="Spring" alt="Spring" width="40px" src="https://skillicons.dev/icons?i=spring">
+  <img title="Dotnet" alt="Dotnet" width="40px" src="https://skillicons.dev/icons?i=dotnet">
   <img title="GraphQL" alt="GraphQL" width="40px" src="https://skillicons.dev/icons?i=graphql"> 
 </p>
 
@@ -28,6 +27,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
 <p>
   <img title="React" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"> 
   <img title="Next" alt="React" width="40px" src="https://skillicons.dev/icons?i=next"> 
+  <img title="Next" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png"> 
 </p>
 
 ### **Databases**
