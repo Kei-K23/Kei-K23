@@ -27,7 +27,7 @@ I'm a passionate **Software Developer** who primarily focuses on **Backend Devel
 <p>
   <img title="React" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"> 
   <img title="Next" alt="React" width="40px" src="https://skillicons.dev/icons?i=next"> 
-  <img title="Next" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png"> 
+  <img title="Blazor" alt="Blazor" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png"> 
 </p>
 
 ### **Databases**
