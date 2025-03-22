@@ -1,6 +1,6 @@
 # Hi There, I'm Arkar Min (Kei) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a passionate **Software Developer** who primarily focuses on **Backend Development**. I am deeply interested in **System Architecture**, **Distributed Systems**, **Databases** and **System programming**. In my free time, I do open-source contributions and reading books that related to software development. Currently, I'm learning **Cloud Computing** and **Go**. Apart from Software development and Programming, I like weight lifting 🏋️ and cooking 🍳.
+I'm a passionate **Software Developer** who primarily focuses on **Backend Development**. I am deeply interested in **System Architecture**, **Distributed Systems**, **Databases** and **System programming**. In my free time, I do open-source contributions and reading books that related to software development. Currently, I'm learning **Cloud Computing** and **Rust**. Apart from Software development and Programming, I like weight lifting 🏋️ and cooking 🍳.
 
 ## 🚀 Tech Stack
 
