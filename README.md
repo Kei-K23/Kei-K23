@@ -1,6 +1,6 @@
 # Hi There, I'm Arkar Min (Kei) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a **Software Developer** who primarily focuses on **Backend Development and Server-side**. I am deeply interested in **System Architecture**, **Databases** and **DevOps**. I have strong working experiences in various domains including e-commerces, streamings services, educational and much more. In my free time, I do open-source contributions and reading books that related to software development. Currently, I'm learning **Cloud Computing** and **Design Patterns**. Apart from Software Development and Programming, I like weight lifting 🏋️ and cooking 🍳.
+I'm a **Software Developer** who primarily focuses on **Backend Development and Server-side**. I am deeply interested in **System Architecture**, **Databases** and **AI/ML**. I have strong working experiences in various domains including e-commerces, streamings services, educational and much more. In my free time, I do open-source contributions and reading books that related to software development. Currently, I'm learning **Cloud Computing** and **AI/ML**. Apart from Software Development and Programming, I like weight lifting 🏋️ and cooking 🍳.
 
 ## 🚀 Tech Stack
 
@@ -9,7 +9,7 @@ I'm a **Software Developer** who primarily focuses on **Backend Development and 
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"> 
   <img alt="TypeScript" title="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts">
   <img title="Node.js" alt="Node.js" width="40px" src="https://skillicons.dev/icons?i=nodejs"> 
-  <img alt="Java" title="Java" width="40px" src="https://skillicons.dev/icons?i=java">
+  <img alt="Python" title="Python" width="40px" src="https://skillicons.dev/icons?i=python">
   <img title="React" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"> 
 </p>
 
