@@ -9,8 +9,10 @@ I'm a **Software Developer** who primarily focuses on **Backend Development and 
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"> 
   <img alt="TypeScript" title="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts">
   <img title="Node.js" alt="Node.js" width="40px" src="https://skillicons.dev/icons?i=nodejs"> 
+  <img title="Java" alt="Java" width="40px" src="https://skillicons.dev/icons?i=java"> 
   <img alt="Python" title="Python" width="40px" src="https://skillicons.dev/icons?i=python">
   <img title="React" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"> 
+  <img title="Spring" alt="Spring" width="40px" src="https://skillicons.dev/icons?i=spring"> 
 </p>
 
 ### **Databases**
