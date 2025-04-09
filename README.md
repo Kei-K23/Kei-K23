@@ -1,42 +1,6 @@
 # Hi There, I'm Arkar Min (Kei) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a **Software Developer** who primarily focuses on **Backend Development and Server-side**. I am deeply interested in **System Architecture**, **Databases** and **AI/ML**. I have strong working experiences in various domains including e-commerces, streamings services, educational and much more. In my free time, I do open-source contributions and reading books that related to software development. Currently, I'm learning **Cloud Computing** and **AI/ML**. Apart from Software Development and Programming, I like weight lifting 🏋️ and cooking 🍳.
-
-## 🚀 Tech Stack
-
-### **Programming Languages & Framework**
-<p>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"> 
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts">
-  <img title="Node.js" alt="Node.js" width="40px" src="https://skillicons.dev/icons?i=nodejs"> 
-  <img title="Java" alt="Java" width="40px" src="https://skillicons.dev/icons?i=java"> 
-  <img alt="Python" title="Python" width="40px" src="https://skillicons.dev/icons?i=python">
-  <img title="React" alt="React" width="40px" src="https://skillicons.dev/icons?i=react"> 
-  <img title="Spring" alt="Spring" width="40px" src="https://skillicons.dev/icons?i=spring"> 
-</p>
-
-### **Databases**
-<p>
-  <img title="MongoDB" alt="MongoDB" width="40px" src="https://skillicons.dev/icons?i=mongodb"> 
-  <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres"> 
-  <img title="Mysql" alt="Mysql" width="40px" src="https://skillicons.dev/icons?i=mysql"> 
-  <img title="Redis" alt="Redis" width="40px" src="https://skillicons.dev/icons?i=redis"> 
-</p>
-
-### **DevOps & Infrastructure**
-<p>
-  <img title="Docker" alt="Docker" width="40px" src="https://skillicons.dev/icons?i=docker"> 
-  <img title="AWS" alt="AWS" width="40px" src="https://skillicons.dev/icons?i=aws">
-  <img title="Firebase" alt="AWS" width="40px" src="https://skillicons.dev/icons?i=firebase"> 
-</p>
-
-### **Tools & IDEs**
-<p>
-  <img title="VS Code" alt="VS Code" width="40px" src="https://skillicons.dev/icons?i=vscode">
-  <img title="Git" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git"> 
-  <img title="Postman" alt="Postman" width="40px" src="https://skillicons.dev/icons?i=postman"> 
-  <img title="Markdown" alt="Postman" width="40px" src="https://skillicons.dev/icons?i=markdown"> 
-</p>
+I'm a **Software Developer** who primarily focuses on **Backend Development and Server-side**. I am deeply interested in **System Architecture**, **Databases** and **AI/ML**. I have strong working experiences in various domains including entertainment, e-commerces and educational industry. Most of my free time, I do open-source contributions and reading books, blogs that related to software development. Currently, I'm learning **Cloud Computing** and **AI/ML**. Apart from Software Development and Programming, I like weight lifting 🏋️ and cooking 🍳.
 
 ## 🤝 Let's Connect
 <p>
