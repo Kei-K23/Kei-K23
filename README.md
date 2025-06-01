@@ -1,6 +1,10 @@
-# Hi There, I'm Arkar Min (Kei) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a **Full-stack Developer** who mainly focuses on **Backend Development**, **Servers Management**, and **Distributed System**. I am deeply interested in **System Architecture**, **Native development** and **Cloud computing**. I have strong working experiences in various domains and sectors including **streaming services**, **e-commerces**, **educational systems** and etc.. Most of my free time, I do open-source contributions, exploring new trends in the software development and building open-source full-stack projects, mobile applications and sometimes freelancing. Apart from Software Development and Programming, I love body building and weight lifting.
+My name is Arkar Min and I'm a full-stack developer. I use React, NextJS, React Native, Node and TypeScript. I'm passionate about solid engineering and crafting full-stack solution.
+
+I have strong working experiences in various domains and sectors including **streaming services**, **e-commerces**, **educational systems** and etc.. Most of my free time, I do open-source contributions, exploring new trends in the software development and building open-source full-stack projects, mobile applications and sometimes freelancing. 
+
+Apart from Software Development and Programming, I love body building and weight lifting.
 
 ## 🤝 Let's Connect
 <p>
