@@ -1,10 +1,10 @@
 # Hi There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-My name is Arkar Min and I'm a full-stack developer. I use TypeScript, NodeJS, Python and React. I'm passionate about solid engineering and solving the problems. I'm deeply interesting in AI/ML.
+My name is Arkar Min and I'm a full-stack developer. I use TypeScript, NodeJS, Python, React and React Native. I'm passionate about solid engineering, solving the problems and building apps.
 
 I have strong working experiences in various domains and sectors including **streaming services**, **e-commerces**, **educational systems** and etc.. Most of my free time, I do open-source contributions, exploring new trends in the software development, learning new skills and building open-source projects, and sometimes freelancing. 
 
-Apart from Software Development and Programming, I love body building and weight lifting.
+Apart from Software Development and Programming, I love sports and weight lifting.
 
 ## 🤝 Let's Connect
 <p>
