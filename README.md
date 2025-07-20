@@ -1,6 +1,6 @@
 # Hi There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-My name is Arkar Min and I'm a full-stack developer. I'm passionate about solid engineering, solving the problems, system designs and AI/ML.
+My name is Arkar Min and I'm a full-stack developer. I'm passionate about solid engineering, solving the problems and building apps.
 
 I have strong working experiences in various domains and sectors including **streaming services**, **e-commerces**, **educational systems** and etc.. Most of my free time, I do open-source contributions, exploring new trends in the software development, learning new skills and building open-source projects, and sometimes freelancing. 
 
