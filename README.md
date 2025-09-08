@@ -1,8 +1,8 @@
 # Hi There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-My name is Arkar Min and I'm a full-stack software developer. I'm passionate about solid engineering, solving the problems, designing Distributed Systems and Database Design.
+My name is Arkar Min and I'm a full-stack software developer. I'm passionate about solid engineering, solving the problems, designing Distributed Systems and AI/ML.
 
-I have strong working experiences in various domains and sectors including **Developing Streaming & Entertainment systems**, **E-commerces**, **LMS, CRM, CMS, ERP systems** and etc.. In my free time, I do open-source contributions, exploring new tech & trends in the software development landscape, learning new skills and building open-source projects and sometimes freelancing the projects. 
+I have strong working experiences in various domains and sectors including **Developing Streaming & Entertainment systems**, **E-commerces**, **LMS, CRM, CMS, ERP systems** and **working and integrating with LLM**. In my free time, I do open-source contributions, exploring new tech & trends in the software development and AI/ML landscape, learning new skills and building open-source projects and sometimes freelancing. 
 
 Apart from Software Development and Programming, I like weight lifting and learning natural languages.
 
