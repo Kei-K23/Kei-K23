@@ -4,7 +4,7 @@ My name is Arkar Min and I'm a Software Engineer (focus on Backend, Databases, D
 
 I have strong working experiences in various domains and sectors including **Developing Streaming & Entertainment systems**, **E-commerces**, **LMS, CRM, CMS, ERP systems**m **building data pipeline** and **crafting tools**. In my free time, I do open-source contributions, exploring new tech & trends in the software development, learning new skills and building open-source projects and sometimes freelancing client projects. 
 
-Apart from Software Development and Engineering, I like running (especially long-distance running)🏃 and cooking🍳.
+Apart from Software Development and Engineering, I love running (especially long-distance running)🏃 and cooking🍳.
 
 ## 🤝 Let's Connect & Working together with me
 <p>
