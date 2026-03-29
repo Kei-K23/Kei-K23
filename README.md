@@ -1,6 +1,6 @@
 # Hi There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-My name is Arkar Min and I'm a Software Engineer. I'm passionate about solid engineering, problem solving, designing Distributed Systems and AI/ML.
+My name is Arkar Min and I'm a Software/AI Engineer. I'm passionate about solid engineering, problem solving, designing Distributed Systems and AI/ML.
 
 I have strong working experiences in various domains and sectors including **Developing Streaming & Entertainment systems**, **E-commerces**, **ERP systems**, **building RAG pipeline** and **AI Agents + Workflows systems**. In my free time, I do learning new skills and building personal projects (mostly full-stack applications) and sometimes freelancing client projects.
 
