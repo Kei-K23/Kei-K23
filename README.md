@@ -1,8 +1,8 @@
 # Hi There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-My name is Arkar Min and I'm a Software Engineer (focus on Backend, Databases, DevOps and Cloud). I'm passionate about solid engineering, designing Distributed Systems, Cloud Computing and AI/ML.
+My name is Arkar Min and I'm a Software Engineer. I'm passionate about solid engineering, problem solving, designing Distributed Systems and AI/ML.
 
-I have strong working experiences in various domains and sectors including **Developing Streaming & Entertainment systems**, **E-commerces**, **LMS, CRM, CMS, ERP systems**m **building data pipeline** and **crafting tools**. In my free time, I do open-source contributions, exploring new tech & trends in the software development, learning new skills and building open-source projects and sometimes freelancing client projects. 
+I have strong working experiences in various domains and sectors including **Developing Streaming & Entertainment systems**, **E-commerces**, **ERP systems**, **building RAG pipeline** and **AI Agents + Workflows systems**. In my free time, I do learning new skills and building personal projects (mostly full-stack applications) and sometimes freelancing client projects.
 
 Apart from Software Development and Engineering, I love running (especially long-distance running)🏃 and cooking🍳.
 
