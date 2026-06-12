@@ -1,13 +1,5 @@
-# Hi There, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+I'm Arkar Min, a Software Engineer specializing in Backend and AI/ML. I'm passionate about solid engineering practices, LLMs, AI agents, workflow automation, and distributed microservices architectures. My primary toolkit includes Python, Node.js, TypeScript, and React.
 
-My name is Arkar Min and I'm a Software/AI Engineer. I'm passionate about solid engineering, problem solving, designing Distributed Systems and AI/ML.
+I bring strong, hands-on experience across a wide range of domains, including streaming and entertainment platforms, multi-vendor payment gateways, payment integrations, and enterprise systems such as LMS, SMS, CRM, CMS, and ERP. I also specialize in building AI agents and workflows, LLM-powered applications, and custom data ingestion and RAG pipelines.
 
-I have strong working experiences in various domains and sectors including **Developing Streaming & Entertainment systems**, **E-commerces**, **ERP systems**, **building RAG pipeline** and **AI Agents + Workflows systems**. In my free time, I do learning new skills and building personal projects (mostly full-stack applications) and sometimes freelancing client projects.
-
-Apart from Software Development and Engineering, I love running (especially long-distance running)🏃 and cooking🍳.
-
-## 🤝 Let's Connect & Working together with me
-<p>
-  <a href="https://www.linkedin.com/in/arkar-min-97410b308/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-  <a href="https://x.com/amin_dev_7"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-64.png" width="40"></a>
-</p>
+Outside of work, I'm an active open-source contributor, continually exploring emerging trends in software development and AI/ML, and I take on freelance projects from time to time.
