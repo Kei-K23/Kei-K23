@@ -1,5 +1,7 @@
-I'm Arkar Min, a Software Engineer specializing in Backend and AI/ML. I'm passionate about solid engineering practices, LLMs, AI agents, workflow automation, and distributed microservices architectures. My primary toolkit includes Python, Node.js, TypeScript, and React.
+I’m Arkar Min, a Software Engineer and AI Engineer with expertise in Backend Engineering, Distributed Systems, Microservices, Generative AI, and AI Engineering.
 
-I bring strong, hands-on experience across a wide range of domains, including streaming and entertainment platforms, multi-vendor payment gateways, payment integrations, and enterprise systems such as LMS, SMS, CRM, CMS, and ERP. I also specialize in building AI agents and workflows, LLM-powered applications, and custom data ingestion and RAG pipelines.
+I have strong hands-on experience building scalable and production-ready systems across multiple domains, including real-time live and video streaming platforms, multi-vendor payment gateway systems, university payment portals, ride-hailing systems, and enterprise ERP, CRM, and POS solutions.
 
-Outside of work, I'm an active open-source contributor, continually exploring emerging trends in software development and AI/ML, and I take on freelance projects from time to time.
+My AI engineering experience includes designing and implementing RAG systems, data pipelines, and LLM-powered integrations for customer-facing applications and enterprise software systems.
+
+Beyond my professional work, I actively contribute to open-source projects, continuously explore emerging trends in software development and AI/ML, and occasionally work on freelance projects.
