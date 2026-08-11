@@ -1,7 +1,7 @@
-I’m Arkar Min, a Software Engineer and AI Engineer with expertise in Backend Engineering, Distributed Systems, Microservices, Generative AI, and AI Engineering.
+I’m Arkar Min, a Software Engineer specializing in backend engineering, distributed systems, DevOps, and production system operations.
 
-I have strong hands-on experience building scalable and production-ready systems across multiple domains, including real-time live and video streaming platforms, multi-vendor payment gateway systems, university payment portals, ride-hailing systems, and enterprise ERP, CRM, and POS solutions.
+I design, develop, deploy, and maintain scalable, secure, and production-ready software systems. My experience spans multiple industries and domains, including real-time live, video, music streaming platforms, multi-vendor payment gateways, government university student registration and payment portals, ride-hailing platforms, and enterprise ERP, CRM, and POS solutions.
 
-My AI engineering experience includes designing and implementing RAG systems, data pipelines, and LLM-powered integrations for customer-facing applications and enterprise software systems.
+I enjoy solving complex engineering problems, improving production systems, modernizing infrastructure, and building reliable software that performs well in real-world, high traffic environments.
 
-Beyond my professional work, I actively contribute to open-source projects, continuously explore emerging trends in software development and AI/ML, and occasionally work on freelance projects.
+Outside of my professional full-time work, I contribute to open-source projects in GitHub, explore emerging technologies, take outsource/freelance projects and building products.
