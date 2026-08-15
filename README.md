@@ -1,4 +1,4 @@
-I’m Arkar Min, a Software Engineer specializing in Backend Engineering, AI Engineering, DevOps, and production system operations.
+I’m Arkar Min, a Software Engineer specializing in Backend Engineering, Full-Stack Engineering, DevOps, and AI.
 
 I design, develop, deploy, and maintain scalable, secure, and production-ready software systems. My experience spans multiple industries and domains, including real-time live, video, music streaming platforms, multi-vendor payment gateways, government university student registration and payment portals, ride-hailing platforms, and enterprise ERP, CRM, and POS solutions.
 
